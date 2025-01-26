@@ -1,3 +1,5 @@
 .vscode
 env/
-04-analytics-engineering/dbt-service-account.json
+**/*service-account.json
+**/*.csv
+01-docker-terraform/homework_answers.md
