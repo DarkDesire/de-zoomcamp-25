@@ -1,5 +1,5 @@
 .vscode
 env/
-**/*service-account.json
-**/*.csv
-**/*_answers.md
+**/*creds.json
+**/*csv
+**/*answers.md
