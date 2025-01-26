@@ -2,4 +2,4 @@
 env/
 **/*service-account.json
 **/*.csv
-01-docker-terraform/homework_answers.md
+**/*_answers.md
